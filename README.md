@@ -1,7 +1,7 @@
 London Trip
 ===
 
-Esercizio
+### Esercizio
 Riproducete il layout dell’immagine allegata utilizzando i tag che abbiamo visto stamattina aiutandovi con le slide di stamattina.
 Lo screenshot della pagina è all’interno del file assets.zip
 1. Create una nuova cartella per l’esercizio di oggi e collegate subito la repo su github con il nome: html-london-trip
